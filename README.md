@@ -421,4 +421,6 @@ To github.com:ifireiceya/MyFirstRepo.git
 - squash - схлапывание коммитов в один 
 - revert
 - rebase
-- cherry-pick
+- cherry-pick 
+
+?????
