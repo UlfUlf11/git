@@ -12,6 +12,13 @@
 
 #define LOG_DURATION_STREAM(x, y) LogDuration UNIQUE_VAR_NAME_PROFILE(x, y)
 
+/*описание*/
+
+/*more changes*/
+/*more changes*/
+/*more changes*/
+
+
 class LogDuration {
 public:
     // заменим имя типа std::chrono::steady_clock
